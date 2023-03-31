@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JackChen890311/JackChen890311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hello there!
+I’m Wei-Jie Chen or Jack Chen, currently pursing master’s degree at NTU CSIE.
+
+I received my bachelor’s degree at NTU IM with BA Program.
+
+My research interests include but not limit to Artificial Intelligence, Machine Learning and Data Science.
+
+And I’ve been to UK for six months as an exchange student, love exploring new things and traveling around the world.
+
+You can learn more about me at my [website](https://jackchen890311.github.io/Website/).
+
+---
+
+### Some Stats
+
+| [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackChen890311&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackChen890311&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)|
+| ------------- | ------------- |
+
+---
+
+### Top Repos
+![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)
+![Website](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Website&theme=aura)
+![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)
