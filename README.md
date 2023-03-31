@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 ### Hello there!
-I’m Wei-Jie Chen or Jack Chen, currently pursing master’s degree at NTU CSIE.
+I’m Wei-Jie Chen or Jack Chen, currently pursing master’s degree at [NTU CSIE](https://www.csie.ntu.edu.tw/).
 
-I received my bachelor’s degree at NTU IM with BA Program.
+I received my bachelor’s degree at [NTU IM](https://management.ntu.edu.tw/IM/) with [BA Program](https://management.ntu.edu.tw/course/BA_P).
 
 My research interests include but not limit to Artificial Intelligence, Machine Learning and Data Science.
 
@@ -35,6 +35,6 @@ You can learn more about me at my [website](https://jackchen890311.github.io/Web
 ---
 
 ### Top Repos
-![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)
-![Website](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Website&theme=aura)
-![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)
+[![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)](https://github.com/JackChen890311/AE)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Website&theme=aura)](https://github.com/JackChen890311/Website)
+[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)](https://github.com/JackChen890311/Projects)
