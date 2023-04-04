@@ -35,6 +35,7 @@ You can learn more about me at my [website](https://jackchen890311.github.io/Web
 ---
 
 ### Top Repos
-[![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)](https://github.com/JackChen890311/AE)
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Website&theme=aura)](https://github.com/JackChen890311/Website)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)](https://github.com/JackChen890311/Projects)
+[![ML-template](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=ML-template&theme=aura)](https://github.com/JackChen890311/ML-template)
+[![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)](https://github.com/JackChen890311/AE)
