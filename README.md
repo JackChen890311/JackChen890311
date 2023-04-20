@@ -19,11 +19,13 @@ I’m Wei-Jie Chen or Jack Chen, currently pursing master’s degree at [NTU CSI
 
 I received my bachelor’s degree at [NTU IM](https://management.ntu.edu.tw/IM/) with [BA Program](https://management.ntu.edu.tw/course/BA_P).
 
+I spent six months as an exchange student at [UoB CS](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), missed [the good days at Europe](https://drive.google.com/file/d/14SxoAykrN-P9K9EWbZMy3JPj-MPAvaqB/view?usp=sharing).
+
 My research interests include but not limit to Artificial Intelligence, Machine Learning and Data Science.
 
-And I’ve been to UK for six months as an exchange student, love exploring new things and traveling around the world.
+I love exploring new things and traveling around the world, and I hope to live in Europe one day.
 
-You can learn more about me at my [website](https://jackchen890311.github.io).
+You can learn more about me at my [website](https://jackchen890311.github.io/Website/) or [resume](https://docs.google.com/document/d/1y3-RGskAtDnl6C83Bwbq_pf8jhSI5daDFfzD9RlFZ50/edit).
 
 ---
 
