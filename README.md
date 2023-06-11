@@ -25,7 +25,7 @@ My research interests include but not limit to Artificial Intelligence, Machine 
 
 I love exploring new things and traveling around the world, and I hope to live in Europe one day.
 
-You can learn more about me at my [website](https://jackchen890311.github.io/) or [resume](https://docs.google.com/document/d/1y3-RGskAtDnl6C83Bwbq_pf8jhSI5daDFfzD9RlFZ50/edit).
+You can learn more about me at my [blog](https://jackchen890311.github.io/) or my [resume](https://docs.google.com/document/d/1y3-RGskAtDnl6C83Bwbq_pf8jhSI5daDFfzD9RlFZ50/edit).
 
 ---
 
