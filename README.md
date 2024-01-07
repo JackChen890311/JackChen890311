@@ -31,18 +31,26 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 
 ---
 
-### Some Stats
-
 | [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackChen890311&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackChen890311&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
 
 ---
 
-### Top Repos
+
+### Featured
+[![Simple-Magic-Animate](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-Magic-Animate&theme=aura)](https://github.com/JackChen890311/Simple-Magic-Animate)
+[![SDXL-Script](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=SDXL-Script&theme=aura)](https://github.com/JackChen890311/SDXL-Script)
+
+### Course Works
+[![NTU-DLCV-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLCV-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLCV-HW-2023Fall)
+[![NTU-ADL-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-ADL-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-ADL-HW-2023Fall)
+[![NTU-DLMAG-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLMAG-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLMAG-HW-2023Fall)
+
+### Others
 [![jackchen890311.github.io](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=jackchen890311.github.io&theme=aura)](https://github.com/JackChen890311/jackchen890311.github.io)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)](https://github.com/JackChen890311/Projects)
 [![ML-template](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=ML-template&theme=aura)](https://github.com/JackChen890311/ML-template)
-[![AE](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE&theme=aura)](https://github.com/JackChen890311/AE)
+[![AE-on-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
 
 ---
 
