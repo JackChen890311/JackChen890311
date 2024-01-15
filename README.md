@@ -58,4 +58,5 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 ---
 
 ### Leetcode
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
 [![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311/?theme=dark&ext=heatmap)](https://leetcode.com/JackChen890311/)
