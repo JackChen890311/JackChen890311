@@ -36,9 +36,9 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 
 ---
 
-### Featured
+### Simple Scripts 
 [![Simple-Magic-Animate](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-Magic-Animate&theme=aura)](https://github.com/JackChen890311/Simple-Magic-Animate)
-[![SDXL-Script](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=SDXL-Script&theme=aura)](https://github.com/JackChen890311/SDXL-Script)
+[![Simple-SDXL](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-SDXL&theme=aura)](https://github.com/JackChen890311/Simple-SDXL)
 
 ---
 
