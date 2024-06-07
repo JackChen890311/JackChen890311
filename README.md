@@ -47,7 +47,7 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 [![NTU-DLCV-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLCV-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLCV-HW-2023Fall)
 [![NTU-ADL-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-ADL-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-ADL-HW-2023Fall)
 [![NTU-DLMAG-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLMAG-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLMAG-HW-2023Fall)
-
+[![Diet-Tracker-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Diet-Tracker-Frontend&theme=aura)](https://github.com/JackChen890311/Diet-Tracker-Frontend)
 ---
 
 ### Others
@@ -57,6 +57,8 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 [![AE-on-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
 
 ---
+### Research
+[![Papers](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
 
 ### Leetcode
 [![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
