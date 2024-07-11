@@ -57,9 +57,15 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 [![AE-on-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
 
 ---
+### Publications
+[![SA-DVAE](https://github-readme-stats.vercel.app/api/pin/?username=pha123661&repo=SA-DVAE&theme=aura)](https://github.com/pha123661/SA-DVAE)
+
+---
+
 ### Research
 [![Papers](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
 
 ### Leetcode
 [![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
+
 [![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311/?theme=dark&ext=heatmap)](https://leetcode.com/JackChen890311/)
