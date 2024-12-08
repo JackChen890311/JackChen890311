@@ -38,8 +38,10 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 
 ### Simple Scripts 
 [![Simple-Magic-Animate](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-Magic-Animate&theme=aura)](https://github.com/JackChen890311/Simple-Magic-Animate)
-[![Simple-SDXL](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-SDXL&theme=aura)](https://github.com/JackChen890311/Simple-SDXL)
+[![Simple-T2I](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-T2I&theme=aura)](https://github.com/JackChen890311/Simple-T2I)
 [![Simple-PhotoMaker](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-PhotoMaker&theme=aura)](https://github.com/JackChen890311/Simple-PhotoMaker)
+[![Simple-LLM](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-LLM&theme=aura)](https://github.com/JackChen890311/Simple-LLM)
+
 
 ---
 
