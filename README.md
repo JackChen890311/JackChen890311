@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 
 ### Hello there!
-I’m Wei-Jie Chen or Jack Chen, currently pursing master’s degree at [NTU CSIE](https://www.csie.ntu.edu.tw/).
+I’m Wei-Jie Chen or Jack Chen, a Machine Learning Engineer specializing in computer vision.
 
-I received my bachelor’s degree at [NTU IM](https://management.ntu.edu.tw/IM/) with [BA Program](https://management.ntu.edu.tw/course/BA_P).
+I received my master’s degree at [NTU CSIE](https://www.csie.ntu.edu.tw/), and my bachelor’s degree at [NTU IM](https://management.ntu.edu.tw/IM/) with [BA Program](https://management.ntu.edu.tw/course/BA_P).
 
 I spent six months as an exchange student at [UoB CS](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), missed [the good days at Europe](https://drive.google.com/file/d/14SxoAykrN-P9K9EWbZMy3JPj-MPAvaqB/view?usp=sharing).
 
-My research interests include but not limit to Artificial Intelligence, Machine Learning and Data Science.
+My research interests include but not limit to various applications of diffusion models.
 
 I love exploring new things and traveling around the world, and I hope to live in Europe one day.
 
-You can learn more about me at my [blog](https://jackchen890311.github.io/) or my [resume](https://docs.google.com/document/d/1y3-RGskAtDnl6C83Bwbq_pf8jhSI5daDFfzD9RlFZ50/edit).
+You can learn more about me at my [blog](https://jackchen890311.github.io/) or my [resume](https://tinyurl.com/resume-jack-chen).
 
 ![](https://komarev.com/ghpvc/?username=JackChen890311&style=for-the-badge&color=blueviolet)
 
@@ -60,15 +60,14 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 [![AE-on-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
 
 ---
-### Publications
+### My Thesis and Publications
+[![AGTree](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AGTree&theme=aura)](https://github.com/JackChen890311/AGTree)
 [![SA-DVAE](https://github-readme-stats.vercel.app/api/pin/?username=pha123661&repo=SA-DVAE&theme=aura)](https://github.com/pha123661/SA-DVAE)
 
 ---
 
-### Research
+### Research & Leetcode
 [![Papers](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
-
-### Leetcode
 [![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
 
 [![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311?theme=dark&ext=heatmap)](https://leetcode.com/u/JackChen890311/)
