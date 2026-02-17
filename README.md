@@ -31,43 +31,44 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 
 ---
 
-| [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackChen890311&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackChen890311&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)|
+| [![Jack's GitHub stats](https://github-stats-extended.vercel.app/api?username=JackChen890311&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JackChen890311&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
 
 ---
 
-### Simple Scripts 
-[![Simple-Magic-Animate](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-Magic-Animate&theme=aura)](https://github.com/JackChen890311/Simple-Magic-Animate)
-[![Simple-T2I](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-T2I&theme=aura)](https://github.com/JackChen890311/Simple-T2I)
-[![Simple-PhotoMaker](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-PhotoMaker&theme=aura)](https://github.com/JackChen890311/Simple-PhotoMaker)
-[![Simple-LLM](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Simple-LLM&theme=aura)](https://github.com/JackChen890311/Simple-LLM)
-
+### My Thesis and Publications
+[![AGTree](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=AGTree&theme=aura)](https://github.com/JackChen890311/AGTree)
+[![SA-DVAE](https://github-stats-extended.vercel.app/api/pin/?username=pha123661&repo=SA-DVAE&theme=aura)](https://github.com/pha123661/SA-DVAE)
 
 ---
 
 ### Course Works
-[![NTU-DLCV-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLCV-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLCV-HW-2023Fall)
-[![NTU-ADL-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-ADL-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-ADL-HW-2023Fall)
-[![NTU-DLMAG-HW-2023Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLMAG-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLMAG-HW-2023Fall)
-[![Diet-Tracker-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Diet-Tracker-Frontend&theme=aura)](https://github.com/JackChen890311/Diet-Tracker-Frontend)
-[![NTU-SED-HW-2024Fall](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=NTU-SED-HW-2024Fall&theme=aura)](https://github.com/JackChen890311/NTU-SED-HW-2024Fall)
+[![NTU-DLCV-HW-2023Fall](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLCV-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLCV-HW-2023Fall)
+[![NTU-ADL-HW-2023Fall](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=NTU-ADL-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-ADL-HW-2023Fall)
+[![NTU-DLMAG-HW-2023Fall](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=NTU-DLMAG-HW-2023Fall&theme=aura)](https://github.com/JackChen890311/NTU-DLMAG-HW-2023Fall)
+[![NTU-SED-HW-2024Fall](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=NTU-SED-HW-2024Fall&theme=aura)](https://github.com/JackChen890311/NTU-SED-HW-2024Fall)
+[![Diet-Tracker-Frontend](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Diet-Tracker-Frontend&theme=aura)](https://github.com/JackChen890311/Diet-Tracker-Frontend)
+
+---
+
+### Simple Scripts 
+[![Simple-Magic-Animate](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Simple-Magic-Animate&theme=aura)](https://github.com/JackChen890311/Simple-Magic-Animate)
+[![Simple-T2I](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Simple-T2I&theme=aura)](https://github.com/JackChen890311/Simple-T2I)
+[![Simple-PhotoMaker](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Simple-PhotoMaker&theme=aura)](https://github.com/JackChen890311/Simple-PhotoMaker)
+[![Simple-LLM](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Simple-LLM&theme=aura)](https://github.com/JackChen890311/Simple-LLM)
+
 ---
 
 ### Others
-[![jackchen890311.github.io](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=jackchen890311.github.io&theme=aura)](https://github.com/JackChen890311/jackchen890311.github.io)
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)](https://github.com/JackChen890311/Projects)
-[![ML-template](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=ML-template&theme=aura)](https://github.com/JackChen890311/ML-template)
-[![AE-on-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
-
----
-### My Thesis and Publications
-[![AGTree](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=AGTree&theme=aura)](https://github.com/JackChen890311/AGTree)
-[![SA-DVAE](https://github-readme-stats.vercel.app/api/pin/?username=pha123661&repo=SA-DVAE&theme=aura)](https://github.com/pha123661/SA-DVAE)
+[![jackchen890311.github.io](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=jackchen890311.github.io&theme=aura)](https://github.com/JackChen890311/jackchen890311.github.io)
+[![Projects](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Projects&theme=aura)](https://github.com/JackChen890311/Projects)
+[![ML-template](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=ML-template&theme=aura)](https://github.com/JackChen890311/ML-template)
+[![AE-on-MNIST](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=AE-on-MNIST&theme=aura)](https://github.com/JackChen890311/AE-on-MNIST)
 
 ---
 
 ### Research & Leetcode
-[![Papers](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
+[![Papers](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
+[![Leetcode](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
 
 [![Jack's Leetcode Stats](https://leetcard.jacoblin.cool/JackChen890311?theme=dark&ext=heatmap)](https://leetcode.com/u/JackChen890311/)
