@@ -40,16 +40,12 @@ You can learn more about me at my [blog](https://jackchen890311.github.io/) or m
 [![AGTree](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=AGTree&theme=aura)](https://github.com/JackChen890311/AGTree)
 [![SA-DVAE](https://github-stats-extended.vercel.app/api/pin/?username=pha123661&repo=SA-DVAE&theme=aura)](https://github.com/pha123661/SA-DVAE)
 
+If you would like to know more, [here](https://github.com/JackChen890311/JackChen890311/blob/main/course.md) is some of my coursework from when I was pursuing my master's degree at NTU CSIE.
+
 ---
 
 ### My Blog, Projects and Notes
 [![jackchen890311.github.io](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=jackchen890311.github.io&theme=aura)](https://github.com/JackChen890311/jackchen890311.github.io)
 [![Language-Tutor](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Language-Tutor&theme=aura)](https://github.com/JackChen890311/Language-Tutor)
 [![Papers](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Papers&theme=aura)](https://github.com/JackChen890311/Papers)
-
-
----
-
-### If you would like to know more:
-- [My course works when I was pursuing master's degree at NTU CSIE](https://github.com/JackChen890311/JackChen890311/blob/main/course.md)
-- [My Leetcode notes and status](https://github.com/JackChen890311/JackChen890311/blob/main/leetcode.md)
+[![Leetcode](https://github-stats-extended.vercel.app/api/pin/?username=JackChen890311&repo=Leetcode&theme=aura)](https://github.com/JackChen890311/Leetcode)
